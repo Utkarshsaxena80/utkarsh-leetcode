@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Utkarshsaxena80/utkarsh-leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [2747-count-zero-request-servers](https://github.com/Utkarshsaxena80/utkarsh-leetcode/tree/master/2747-count-zero-request-servers) |
 ## Sliding Window
 |  |
@@ -34,4 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2747-count-zero-request-servers](https://github.com/Utkarshsaxena80/utkarsh-leetcode/tree/master/2747-count-zero-request-servers) |
+## String
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Utkarshsaxena80/utkarsh-leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Utkarshsaxena80/utkarsh-leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
