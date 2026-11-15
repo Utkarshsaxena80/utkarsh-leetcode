@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Utkarshsaxena80/utkarsh-leetcode/tree/master/0011-container-with-most-water) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Utkarshsaxena80/utkarsh-leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2747-count-zero-request-servers](https://github.com/Utkarshsaxena80/utkarsh-leetcode/tree/master/2747-count-zero-request-servers) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Utkarshsaxena80/utkarsh-leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -56,4 +57,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Utkarshsaxena80/utkarsh-leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Utkarshsaxena80/utkarsh-leetcode/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Utkarshsaxena80/utkarsh-leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
