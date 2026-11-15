@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Utkarshsaxena80/utkarsh-leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2747-count-zero-request-servers](https://github.com/Utkarshsaxena80/utkarsh-leetcode/tree/master/2747-count-zero-request-servers) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Utkarshsaxena80/utkarsh-leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Depth-First Search
@@ -43,4 +44,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Utkarshsaxena80/utkarsh-leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Math
+|  |
+| ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Utkarshsaxena80/utkarsh-leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Utkarshsaxena80/utkarsh-leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Utkarshsaxena80/utkarsh-leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 <!---LeetCode Topics End-->
