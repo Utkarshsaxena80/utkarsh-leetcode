@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Utkarshsaxena80/utkarsh-leetcode/tree/master/0011-container-with-most-water) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Utkarshsaxena80/utkarsh-leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0881-boats-to-save-people](https://github.com/Utkarshsaxena80/utkarsh-leetcode/tree/master/0881-boats-to-save-people) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Utkarshsaxena80/utkarsh-leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2747-count-zero-request-servers](https://github.com/Utkarshsaxena80/utkarsh-leetcode/tree/master/2747-count-zero-request-servers) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Utkarshsaxena80/utkarsh-leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Utkarshsaxena80/utkarsh-leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Dynamic Programming
 |  |
