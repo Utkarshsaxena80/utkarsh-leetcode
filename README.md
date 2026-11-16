@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Utkarshsaxena80/utkarsh-leetcode/tree/master/0011-container-with-most-water) |
+| [0322-coin-change](https://github.com/Utkarshsaxena80/utkarsh-leetcode/tree/master/0322-coin-change) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Utkarshsaxena80/utkarsh-leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0881-boats-to-save-people](https://github.com/Utkarshsaxena80/utkarsh-leetcode/tree/master/0881-boats-to-save-people) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Utkarshsaxena80/utkarsh-leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Utkarshsaxena80/utkarsh-leetcode/tree/master/0322-coin-change) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Utkarshsaxena80/utkarsh-leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Utkarshsaxena80/utkarsh-leetcode/tree/master/0322-coin-change) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Utkarshsaxena80/utkarsh-leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Prefix Sum
 |  |
@@ -77,4 +80,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/Utkarshsaxena80/utkarsh-leetcode/tree/master/0881-boats-to-save-people) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Utkarshsaxena80/utkarsh-leetcode/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Utkarshsaxena80/utkarsh-leetcode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
